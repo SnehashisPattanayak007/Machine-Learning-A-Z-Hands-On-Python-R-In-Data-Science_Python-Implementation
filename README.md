@@ -3,12 +3,12 @@
 ## Data Preprocessing
 • [Data Preprocessing Template](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science/blob/master/Data%20Preprocessing/Data%20Preprocessing.ipynb)</br>
 
-# Regression
-## Simple Linear Regression
 <!-- • []()</br> -->
+<!-- # Regression
+## Simple Linear Regression
 ## Multiple Linear Regression
 ## Polynomial Regression
 ## Support Vector Regression (SVR)
 ## Decision Tree Regression
 ## Random Forest Regression
-## Evaluating Regression Models Performance
+## Evaluating Regression Models Performance -->
