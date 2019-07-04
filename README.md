@@ -3,10 +3,10 @@
 ## Data Preprocessing
 • [Data Preprocessing Template](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science/blob/master/Data%20Preprocessing/Data%20Preprocessing.ipynb)</br>
 
+## Regression
+• [Simple Linear Regression](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Regression/Simple%20Linear%20Regression/simple_linear_regression.ipynb)</br>
 <!-- • []()</br> -->
-<!-- # Regression
-## Simple Linear Regression
-## Multiple Linear Regression
+<!-- ## Multiple Linear Regression
 ## Polynomial Regression
 ## Support Vector Regression (SVR)
 ## Decision Tree Regression
