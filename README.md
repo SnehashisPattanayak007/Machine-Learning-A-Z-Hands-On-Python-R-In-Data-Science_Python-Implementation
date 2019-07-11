@@ -10,7 +10,7 @@
 #### • [Assumptions Of Linear Regression Algorithm](https://towardsdatascience.com/assumptions-of-linear-regression-algorithm-ed9ea32224e1)</br>
 • [Polynomial Regression](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Regression/Polynomial%20Regression/polynomial_regression.ipynb)</br>
 • [Support Vector Regression (SVR)](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Regression/Support%20Vector%20Regression%20(SVR)/svr.ipynb)</br>
-<!-- • [Decision Tree Regression]()</br> -->
-<!-- • [Random Forest Regression]()</br> -->
+• [Decision Tree Regression](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Regression/Decision%20Tree%20Regression/decision_tree_regression.ipynb)</br>
+• [Random Forest Regression](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Regression/Random%20Forest%20Regression/random_forest_regression.ipynb)</br>
 <!-- • [Evaluating Regression Models Performance]()</br> -->
 <!-- • []()</br> -->
