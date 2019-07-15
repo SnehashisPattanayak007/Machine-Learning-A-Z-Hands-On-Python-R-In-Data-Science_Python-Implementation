@@ -17,8 +17,9 @@
 • [Logistic Regression](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Classification/Logistic%20Regression/logistic_regression.ipynb)</br>
 • [K-Nearest Neighbors (K-NN)](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Classification/K-Nearest%20Neighbors%20(K-NN)/knn.ipynb)</br>
 • [Support Vector Machine (SVM)](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Classification/Support%20Vector%20Machine%20(SVM)/svm.ipynb)</br>
-<!-- • [Kernel SVM]()</br>
-• [Naive Bayes]()</br>
-• [Decision Tree Classification]()</br>
-• [Random Forest Classification]()</br> -->
+• [Naive Bayes](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Classification/Naive%20Bayes/naive_bayes.ipynb)</br>
+• [Decision Tree Classification](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Classification/Decision%20Tree%20Classification/decision_tree.ipynb)</br>
+• [Random Forest Classification](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Classification/Random%20Forest%20Classification/random_forest.ipynb)</br>
+
+
 <!-- • []()</br> -->
