@@ -21,5 +21,7 @@
 • [Decision Tree Classification](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Classification/Decision%20Tree%20Classification/decision_tree.ipynb)</br>
 • [Random Forest Classification](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Classification/Random%20Forest%20Classification/random_forest.ipynb)</br>
 
-
+## Clustering
+• [K-Means Clustering](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Clustering/K-Means%20Clustering/kmeans.ipynb)</br>
+• [Hierarchical Clustering (Agglomerative)](https://github.com/Amgd2112/Machine-Learning-A-Z-Hands-On-Python-R-In-Data-Science_Python-Implementation/blob/master/Clustering/Hierarchical%20Clustering/hc.ipynb)</br>
 <!-- • []()</br> -->
